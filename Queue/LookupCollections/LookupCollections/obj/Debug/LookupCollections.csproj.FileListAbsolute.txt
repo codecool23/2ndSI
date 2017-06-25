@@ -1,0 +1,5 @@
+E:\Queue\LookupCollections\LookupCollections\bin\Debug\LookupCollections.exe.config
+E:\Queue\LookupCollections\LookupCollections\bin\Debug\LookupCollections.exe
+E:\Queue\LookupCollections\LookupCollections\bin\Debug\LookupCollections.pdb
+E:\Queue\LookupCollections\LookupCollections\obj\Debug\LookupCollections.exe
+E:\Queue\LookupCollections\LookupCollections\obj\Debug\LookupCollections.pdb

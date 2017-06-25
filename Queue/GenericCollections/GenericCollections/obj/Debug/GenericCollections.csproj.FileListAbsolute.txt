@@ -1,0 +1,5 @@
+E:\Queue\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe.config
+E:\Queue\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe
+E:\Queue\GenericCollections\GenericCollections\bin\Debug\GenericCollections.pdb
+E:\Queue\GenericCollections\GenericCollections\obj\Debug\GenericCollections.exe
+E:\Queue\GenericCollections\GenericCollections\obj\Debug\GenericCollections.pdb

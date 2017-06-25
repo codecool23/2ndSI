@@ -1,0 +1,5 @@
+E:\Queue\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe.config
+E:\Queue\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe
+E:\Queue\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.pdb
+E:\Queue\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.exe
+E:\Queue\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.pdb

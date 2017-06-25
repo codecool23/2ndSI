@@ -1,0 +1,5 @@
+E:\Queue\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.exe.config
+E:\Queue\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.exe
+E:\Queue\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.pdb
+E:\Queue\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.exe
+E:\Queue\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.pdb
